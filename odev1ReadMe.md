@@ -5,7 +5,7 @@
 * [Github Hesabım](https://github.com/mustod)
 * [Hackerrank](https://www.hackerrank.com/mustafadirier1)
 * [Stack Overflow](https://stackexchange.com/users/19818250/mustafa-dirier)
-* Visual Studio benefitlerinden yararlanmak için hesap açıldı.
+* Visual Studio mustafa_dirier@outlook.com
 
 ---------------
 
